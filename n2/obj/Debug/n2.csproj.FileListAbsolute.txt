@@ -1,0 +1,50 @@
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\bin\Debug\n2.exe.config
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\bin\Debug\n2.exe
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\bin\Debug\n2.pdb
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.csprojAssemblyReference.cache
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.Properties.Resources.resources
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.csproj.GenerateResource.cache
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.csproj.CoreCompileInputs.cache
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.exe
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.pdb
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\2°Bimestre\N2 2B POO\n2_2\n2\n2\obj\Debug\n2.Form1.resources
+C:\Users\maloy\Desktop\N2_POO\n2\bin\Debug\n2.exe.config
+C:\Users\maloy\Desktop\N2_POO\n2\bin\Debug\n2.exe
+C:\Users\maloy\Desktop\N2_POO\n2\bin\Debug\n2.pdb
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.csprojAssemblyReference.cache
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.Form1.resources
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.Properties.Resources.resources
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.csproj.GenerateResource.cache
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.csproj.CoreCompileInputs.cache
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.exe
+C:\Users\maloy\Desktop\N2_POO\n2\obj\Debug\n2.pdb
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\bin\Debug\n2.exe.config
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\bin\Debug\n2.exe
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\bin\Debug\n2.pdb
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.csprojAssemblyReference.cache
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.Form1.resources
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.Properties.Resources.resources
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.csproj.GenerateResource.cache
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.csproj.CoreCompileInputs.cache
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.exe
+C:\Users\maloy\Desktop\New folder\N2_POO\n2\obj\Debug\n2.pdb
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\bin\Debug\n2.exe.config
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\bin\Debug\n2.exe
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\bin\Debug\n2.pdb
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.csprojAssemblyReference.cache
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.Form1.resources
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.Properties.Resources.resources
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.csproj.GenerateResource.cache
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.csproj.CoreCompileInputs.cache
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.exe
+C:\Users\lasou\Downloads\N2_POO\N2_POO\n2\obj\Debug\n2.pdb
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\bin\Debug\n2.exe.config
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\bin\Debug\n2.exe
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\bin\Debug\n2.pdb
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.csproj.AssemblyReference.cache
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.Form1.resources
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.Properties.Resources.resources
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.csproj.GenerateResource.cache
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.csproj.CoreCompileInputs.cache
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.exe
+C:\Users\lasou\OneDrive\Área de Trabalho\EC3\Programação Orientada à Objetos\N2_POO\N2_POO\n2\obj\Debug\n2.pdb

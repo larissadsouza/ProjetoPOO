@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="n2.Veículos.Pedagio" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\Pedagio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="n2.Veiculo" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAkAAAEAAAAQAAIAAgACAAIAAAACACAAAg=</HashCode>
+      <FileName>Veículos\Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="n2.Aviao" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAUAAAAAAAIEAAAgAAAA=</HashCode>
+      <FileName>Veículos\Aviao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.1" />
+  </Class>
+  <Class Name="n2.AviaodeGuerra" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAAAGAAAgAAAA=</HashCode>
+      <FileName>Veículos\AviaodeGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="n2.Carro" Collapsed="true">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <InheritanceLine Type="n2.Veiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="1.062" />
+        <Point X="9" Y="8.346" />
+        <Point X="10.75" Y="8.346" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAAAAIAAMAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Veículos\Carro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.204" />
+  </Class>
+  <Class Name="n2.Moto" Collapsed="true">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <InheritanceLine Type="n2.Veiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="1.062" />
+        <Point X="9" Y="9.096" />
+        <Point X="10.75" Y="9.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\Moto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.121" />
+  </Class>
+  <Class Name="n2.Onibus" Collapsed="true">
+    <Position X="9.25" Y="10.25" Width="1.5" />
+    <InheritanceLine Type="n2.Veiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="1.062" />
+        <Point X="9" Y="10.596" />
+        <Point X="10.75" Y="10.596" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEAIQAAAAAAAAAFAAAAAQAAAEAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Veículos\Onibus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.1" />
+  </Class>
+  <Class Name="n2.Caminhao" Collapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <InheritanceLine Type="n2.Veiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="1.062" />
+        <Point X="9" Y="9.846" />
+        <Point X="10.75" Y="9.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEFIQAABAAEAAAEAgAAAAAAAEAAAAAAAIAAAACAAQA=</HashCode>
+      <FileName>Veículos\Caminhao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.1" />
+  </Class>
+  <Class Name="n2.Navio" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="n2.Veiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="1.062" />
+        <Point X="9" Y="4.974" />
+        <Point X="5.5" Y="4.974" />
+        <Point X="5.5" Y="6.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\Navio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.208" />
+  </Class>
+  <Class Name="n2.Trem" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="n2.Veiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="1.062" />
+        <Point X="9" Y="3.916" />
+        <Point X="10" Y="3.916" />
+        <Point X="10" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAIIAACAAAAAA=</HashCode>
+      <FileName>Veículos\Trem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.261" />
+  </Class>
+  <Class Name="n2.NaviodeGuerra" Collapsed="true">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Veículos\NaviodeGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.172" />
+  </Class>
+  <Class Name="n2.Modelo" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAAQARAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="n2.Marca" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Marca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="n2.Veículos.DispararEventArgs" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\DispararEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="n2.CapacidadeMaximaAtingidaException" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CapacidadeMaximaAtingidaException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="n2.IAviões" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Veículos\IAvioes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="n2.IVeiculosComParabrisa" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\IVeiculosComParabrisa.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="n2.Veículos.IVeiculosPagamPedagio" Collapsed="true">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\IVeiculosPagamPedagio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="n2.INavios" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veículos\INavios.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="n2.IGuerra" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Veículos\IGuerra.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
